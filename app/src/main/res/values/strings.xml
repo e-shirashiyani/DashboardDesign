@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DashboardDesign</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="saved">Saved</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="sezar_salad">Sezar Salad</string>
+    <string name="diet_food">Diet Food</string>
+    <string name="_15_min">15 min</string>
+    <string name="recommended">Recommended</string>
+    <string name="view_all">view all</string>
+</resources>
